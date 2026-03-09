@@ -1,0 +1,18 @@
+# Binary
+pixel-forge
+/data
+
+# IDE
+.idea
+.vscode
+*.iml
+
+# OS
+.DS_Store
+
+# Env
+.env
+*.env
+
+# Generated
+generate_report.py
