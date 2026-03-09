@@ -1,3 +1,3 @@
 module github.com/malbinjvc/pixel-forge
 
-go 1.26.1
+go 1.23
